@@ -1,5 +1,5 @@
 module file-zip
 
-go 1.19
+go 1.23
 
-require golang.org/x/text v0.14.0
+require golang.org/x/text v0.17.0
